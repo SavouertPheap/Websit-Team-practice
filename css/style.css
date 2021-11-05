@@ -55,6 +55,21 @@ body{
 .card-button {
     text-align: center;
 }
+.icons{
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 2.5rem;
+    margin: 2rem;
+    text-align: center;
+}
+.icons .fa-css3{
+    color: purple;
+    font-size: 6rem;
+}
+.icons .fa-html5{
+    color: purple;
+    font-size: 6rem;
+}
 
 
 
