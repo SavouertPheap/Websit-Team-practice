@@ -1,0 +1,39 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.navigation{
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+.naver ul{
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+.naver ul li{
+    list-style: none;
+    
+    
+}
+.naver ul li a{
+    padding: 1.2rem;
+    text-decoration: none;
+    font-weight: bold;
+    padding-left: 20px;
+}
+.naver ul li a i{
+    padding-right: 20px;
+    
+}
+.active{
+    background: purple;
+    color: white;
+    border-radius:7px;
+    
+}
+.black{
+    color: black;
+}
